@@ -11,7 +11,7 @@
 [1,]    1    4    7
 [2,]    2    5    8
 [3,]    3    6    9
-> new_matrix$get_inverse()
+> new_matrix$getInverse()
 NULL
 > cacheSolve(new_matrix)
  Show Traceback
@@ -37,7 +37,7 @@ Some reading about invertible matrices:
      [,1] [,2]
 [1,]    1    3
 [2,]    2    4
-> new_matrix$get_inverse()
+> new_matrix$getInverse()
 NULL
 > cacheSolve(new_matrix)
      [,1] [,2]
@@ -52,7 +52,7 @@ getting cached data
      [,1] [,2]
 [1,]    1    3
 [2,]    2    4
-> new_matrix$get_inverse()
+> new_matrix$getInverse()
      [,1] [,2]
 [1,]   -2  1.5
 [2,]    1 -0.5
@@ -61,13 +61,13 @@ getting cached data
      [,1] [,2]
 [1,]    1    1
 [2,]    1    2
-> new_matrix$get_inverse()
+> new_matrix$getInverse()
 NULL
 > cacheSolve(new_matrix)
      [,1] [,2]
 [1,]    2   -1
 [2,]   -1    1
-> new_matrix$get_inverse()
+> new_matrix$getInverse()
      [,1] [,2]
 [1,]    2   -1
 [2,]   -1    1

@@ -44,7 +44,7 @@ NULL
 [1,]   -2  1.5
 [2,]    1 -0.5
 > cacheSolve(new_matrix)
-getting cached data
+getting cached matrix
      [,1] [,2]
 [1,]   -2  1.5
 [2,]    1 -0.5
@@ -72,7 +72,7 @@ NULL
 [1,]    2   -1
 [2,]   -1    1
 > cacheSolve(new_matrix)
-getting cached data
+getting cached matrix
      [,1] [,2]
 [1,]    2   -1
 [2,]   -1    1
